@@ -1,1 +1,1 @@
-reject pull request
+reject pull
